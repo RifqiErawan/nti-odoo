@@ -17,7 +17,7 @@ export var config : Foo = {
     "python.linting.enabled": false,
 	"editor.quickSuggestions": true,
 	"editor.quickSuggestionsDelay": 0,
-	"workbench.iconTheme": "macos-classic-icons",
+	"workbench.iconTheme": "material-icon-theme",
 	"workbench.editor.tabSizing": "shrink",
 	"workbench.editor.enablePreview": false,
     "python.linting.pylintArgs": [
